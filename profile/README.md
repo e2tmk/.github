@@ -1,4 +1,8 @@
-<p align="center"><a href="https://github.com/e2tmk" target="_blank"><img src="https://e2tmk.com/images/logo2.png" width="200"></a></p>
+<p align="center">
+
+[![E2TMK](../art/logo-e2tmk.png)](https://github.com/e2tmk)
+
+</p>
 
 E2TMK is a software company focused on building expressive and elegant solutions.  
 We believe development should be an enjoyable and creative experience to be truly fulfilling.  
