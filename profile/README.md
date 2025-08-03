@@ -1,6 +1,6 @@
 <p align="center">
 
-[![E2TMK](https://raw.githubusercontent.com/e2tmk/.github/main/art/logo-e2tmk.png)](https://github.com/e2tmk)
+[![E2TMK](../art/logo-e2tmk.png)](https://github.com/e2tmk)
 
 </p>
 
