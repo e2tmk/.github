@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://github.com/e2tmk" target="_blank">
-![E2TMK](https://raw.githubusercontent.com/e2tmk/.github/main/art/logo-e2tmk.png)
-</a>
+
+[![E2TMK](https://raw.githubusercontent.com/e2tmk/.github/main/art/logo-e2tmk.png)](https://github.com/e2tmk)
+
 </p>
 
 E2TMK is a software company focused on building expressive and elegant solutions.  
