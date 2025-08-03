@@ -1,6 +1,10 @@
 <p align="center">
 
-[![E2TMK](../art/logo-e2tmk.png)](https://github.com/e2tmk)
+<p align="center">
+  <a href="https://github.com/e2tmk">
+    <img src="../art/logo-e2tmk.png" alt="E2TMK" width="500">
+  </a>
+</p>
 
 </p>
 
