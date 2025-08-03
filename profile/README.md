@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/e2tmk">
-    <img src="../art/logo-e2tmk.png" alt="E2TMK" width="500">
+    <img src="../art/logo-e2tmk.png" alt="E2TMK" width="300">
   </a>
 </p>
 
