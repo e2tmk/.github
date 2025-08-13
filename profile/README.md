@@ -31,6 +31,5 @@ Our team specializes in:
 
 - **Full-Stack Development** – From concept to deployment  
 - **Modern PHP Applications** – Laravel, Livewire, and Filament expertise  
-- **Frontend Excellence** – Vue.js and Nuxt.js applications  
-- **AI Integration** – Python, LangChain, and intelligent automations  
+- **AI Integration** – Python, LangChain, N8N and intelligent automations  
 - **Native Applications** – Cross-platform solutions with NativePHP
